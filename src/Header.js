@@ -5,5 +5,5 @@ export default function Header() {
         <div>
             GOALS
         </div>
-    )
-}
+    );
+};
