@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "goal": "workout",
+        "completed": [true, true, true]
+    },
+    {
+        "id": 2,
+        "goal": "read",
+        "completed": [false, false, true]
+    }
+]
